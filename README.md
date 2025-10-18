@@ -118,7 +118,7 @@ MentorCraft defines a minimal pipeline that automatically generates high-quality
   "input": "We need a way to track user login events",
   "output": "I added a new `audit_log` table with a `log_user_event(user_id, event_type)` helper. This keeps auth logic clean and makes future event tracking extensible."
 }
-````
+```
 
 ---
 
