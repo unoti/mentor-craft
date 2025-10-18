@@ -6,7 +6,8 @@
 
 ## The Problem
 
-Every conversation with an AI agent starts from scratch. No matter how much time you spend teaching an agent your codebase conventions, your design patterns, or your reasoning style—it forgets everything the moment the session ends.
+Every conversation with an AI agent starts from scratch. No matter how much time you spend teaching an agent your codebase conventions, your design patterns, or your reasoning style—it forgets everything the moment the session ends.  Existing solutions focus on combatting this with snippets of documents assembled and put into
+context.  But we wonder about taking that knowledge deeper than in-context learning.
 
 Humans don't work this way. When you mentor a junior engineer, they absorb your feedback through repeated interaction. They learn that you prefer composition over inheritance, that you have a custom blob storage abstraction, that you always consider edge cases from production incidents. They dream about these patterns and internalize them.
 
